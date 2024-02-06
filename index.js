@@ -1,0 +1,1 @@
+console.log("Ok this is consoled with nodemon. You just have to enter npm start in terminal")
